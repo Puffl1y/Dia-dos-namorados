@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    background-color: #CFE4FF;
+}
+
+.tudo {
+    margin: auto;
+    width: 500px;
+    height: 450px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+    font-family: "Andika", sans-serif;
+}
+
+.dia {
+    font-family: "Andika", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.pedido {
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#sim {
+    font-family: "Andika", sans-serif;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: -80px;
+    background-color: #FFADC9;
+    cursor: pointer;
+}
+
+#nao {
+    position: absolute;
+    font-family: "Andika", sans-serif;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #FFADC9;
+}
+
+.cuidado {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}

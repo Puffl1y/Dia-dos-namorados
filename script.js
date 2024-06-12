@@ -17,6 +17,4 @@ function fuja() {
 
 function eba() {
     alert("Parabéns, você fez uma boa escolha ❤")
-
-    alert("Ou não, agora vai ter que me aturar mais ❤")
 }
